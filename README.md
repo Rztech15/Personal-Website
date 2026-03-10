@@ -26,7 +26,7 @@ This website is built with **HTML, CSS, and JavaScript** and showcases my projec
 ## 📂 How to view
 
 1. Open `index.html` in any web browser.  
-2. Or visit the live site: [Your GitHub Pages link here]  
+2. Or visit the live site: [https://rztech15.github.io/Rz-Portfolio/]  
 
 ---
 
