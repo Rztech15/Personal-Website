@@ -1,25 +1,51 @@
 # Muhammad Ramzan - Personal Portfolio Website
 
-Welcome to my **personal portfolio website**! 🌐
+![Website](https://img.shields.io/badge/Website-Live-brightgreen)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=black)
 
-This website is built with **HTML, CSS, and JavaScript** and showcases my projects, skills, and contact information.
+Welcome to my **Personal Portfolio Website**! 🌐  
+
+My name is **Muhammad Ramzan**, and I am a student interested in **Data Analysis, Web Development, and Technology**.  
+This portfolio website showcases my **skills, projects, and learning journey** as I continue developing my technical abilities.
 
 ---
 
-## 🏠 Sections
+## 🏠 Website Sections
 
 - **Home:** Introduction and welcome message  
 - **About Me:** My background, skills, and interests  
-- **Portfolio:** Projects I have worked on with brief descriptions  
-- **Contact:** Email and contact form to get in touch  
+- **Portfolio:** Projects I have worked on  
+- **Contact:** Information to get in touch with me  
 
 ---
 
 ## 💻 Skills
 
-- HTML, CSS, JavaScript  
-- Data Analysis (Excel, Maple)  
+- HTML  
+- CSS  
+- JavaScript  
+- Data Analysis using **Microsoft Excel**  
+- Basic knowledge of **Maple**  
 - Web Development Basics  
+
+## 📁 Projects
+
+### Pakistan Companies Data Analysis Dashboard
+Data analysis project built using **Microsoft Excel** to analyze revenue and market capitalization of major Pakistani companies.
+
+Features:
+- Data visualization
+- Interactive dashboard
+- Business insights using charts and graphs
+
+---
+
+## 🔗 Connect With Me
+
+LinkedIn:  
+https://www.linkedin.com/in/muhammad-ramzan-a8593a3b5
 
 ---
 
