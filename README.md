@@ -1,9 +1,9 @@
 # Muhammad Ramzan - Personal Portfolio Website
 ## Website Preview
 
-![Preview](https://github.com/Rztech15/Personal-Website/blob/main/WhatsApp%20Image%202026-03-11%20at%2010.39.55%20PM.jpeg?raw=true)
+![Preview](https://raw.githubusercontent.com/Rztech15/Personal-Website/main/WhatsApp%20Image%202026-03-11%20at%2010.39.55%20PM.jpeg)
 
-![Preview2](https://github.com/Rztech15/Personal-Website/blob/main/WhatsApp%20Image%202026-03-11%20at%2010.41.25%20PM.jpeg?raw=true)
+![Preview2](https://raw.githubusercontent.com/Rztech15/Personal-Website/main/WhatsApp%20Image%202026-03-11%20at%2010.41.25%20PM.jpeg)
 
 ![Website](https://img.shields.io/badge/Website-Live-brightgreen)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
